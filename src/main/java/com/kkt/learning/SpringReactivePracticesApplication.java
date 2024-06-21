@@ -1,4 +1,4 @@
-package com.kkt.learning.spring_reactive_practices;
+package com.kkt.learning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

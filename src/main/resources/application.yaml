@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-reactive-practices
+db:
+  mongodb:
+    uri: mongodb+srv://mongo-mine:mongo%401126@mongo-kartheek-cluster.9t22y7c.mongodb.net/test?authSource=admin
